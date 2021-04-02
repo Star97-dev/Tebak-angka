@@ -1,2 +1,2 @@
 # Tebak-angka
-Membuat program mini game menebak angka, dari angka random komputer.
+Membuat program mini game Tebak Angka dengan menggunakan Javascript.
